@@ -28,12 +28,12 @@
  
  
  
- <h2 align='center'>"Don’t worry about where to start. Remember, it’s the decisions you make, it’s the decision to get started it’s the decision to face possible failure, it’s the decision to get up once you’ve failed and it’s the decision of what to learn when you fail."</h2>    <p align="right"> -Tom Bilyeu </p>
+ <h2 align='center'>"Don’t worry about where to start. Remember, it’s the decisions you make, it’s the decision to get started it’s the decision to face possible failure, it’s the decision to get up once you’ve failed and it’s the decision of what to learn when you fail."  
+ </br>-Tom Bilyeu</h2>    
 
- 
 <p float="center">
-<img src='https://i.pinimg.com/originals/ae/0a/64/ae0a6436fc493988d55cf19d73fa05e2.gif' height= "250" width="350"/>
-<img src='https://i.pinimg.com/originals/d5/0a/b1/d50ab17486f6b16899ea70898e858105.gif' height="250" width="350">
+<img src='https://i.pinimg.com/originals/ae/0a/64/ae0a6436fc493988d55cf19d73fa05e2.gif' height= "250" width="400"/>
+<img src='https://i.pinimg.com/originals/d5/0a/b1/d50ab17486f6b16899ea70898e858105.gif' height="250" width="400">
 </p>
 
  
